@@ -1,0 +1,167 @@
+body {
+ background-color: rgb(217, 205, 217);
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
+
+.container {
+ width: 80%;
+ min-height: 100vh;
+ background-color: white;
+ margin: 50px;
+ display: flex;
+ flex-direction: column;
+ align-self: end;
+}
+
+.index {
+ display: flex;
+
+}
+
+#schoolimg {
+ display: flex;
+ width: 600px;
+ height: 500px;
+ margin: 20px;
+}
+
+p {
+ color: gray;
+ font-size: x-small;
+ margin: 30px;
+}
+
+nav {
+ margin: 0px;
+ padding: 0px;
+ display: flex;
+ justify-content: space-between;
+}
+
+ul {
+ display: flex;
+ list-style: none;
+}
+
+#icon {
+ width: 30px;
+ height: 30px;
+ color: rgb(123, 114, 118);
+
+}
+
+a {
+ text-decoration: none;
+ padding: 10px;
+ font-size: smaller;
+ color: rgb(230, 211, 220);
+
+}
+
+.second {
+ color: gray;
+}
+
+h1 {
+ color: rgb(120, 113, 116);
+ margin: 30px;
+}
+
+h2 {
+ color: rgb(133, 127, 130);
+ margin: 30px;
+}
+
+h6 {
+ color: rgb(160, 146, 153);
+ margin: 30px;
+}
+
+.btn {
+ margin: 30px;
+ background-color: gray;
+ width: 150px;
+ height: 50px;
+ border: none;
+ border-radius: 30px;
+ color: white;
+}
+
+.btn2 {
+ background-color: gray;
+ width: 150px;
+ height: 50px;
+ border: none;
+ border-radius: 30px;
+ color: white;
+}
+
+.edit {
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ font-size: medium;
+}
+
+.edit2 {
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ font-size: medium;
+ color: gray;
+}
+
+.date {
+ font-size: small;
+ color: pink;
+ flex-direction: column;
+}
+
+h4 {
+ margin: 30px;
+ color: gray;
+}
+
+.containerprofile {
+ background-color: hotpink;
+}
+
+#img {
+ width: 300px;
+ height: 200px;
+ margin: 50px;
+}
+
+#img2 {
+ width: 300px;
+ height: 200px;
+ margin: 50px;
+}
+
+.content {
+ background-color: rgb(230, 211, 220);
+ min-width: 100vh;
+ min-height: 50vh;
+ color: white;
+}
+
+h5 {
+ margin: 50px;
+ font-size: large;
+}
+
+.space {
+ margin: 20px;
+}
+
+#icon8 {
+ width: 30px;
+ height: 30px;
+}
+
+#icon7 {
+ width: 30px;
+ height: 30px;
+}
